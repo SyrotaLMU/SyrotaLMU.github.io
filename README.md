@@ -8,3 +8,32 @@ Bachelor and Masters-level students of all subjects participate in teams of 3–
 During the competition, students are supported by a team of statistics and computer science experts from University of Mannheim as well as professional consultants from external partner institutions. In addition, participants have the opportunity to make contact with potential employers at the event's internal CareerFair.
 
 Our Datafest Germany, is a celebration that follows upon the model initiated in the USA. DataFest™ has been a permanent feature of the American Statistical Association for several years now. The world's first DataFest took place at the University of California in 2011; since then, many other universities have taken up the format and offer DataFests. Today there are DataFest events worldwide. 
+
+### Why should you participate?
+
+Icon:
+Team Synergy, Task Mastery
+Collaborate with diverse talents to conquer intricate challenges as a team and experience the power of collective problem-solving.
+
+Icon: light bulb
+Refine your Skills in Expert-Led Workshops
+Learn directly from academic experts in exclusive workshops. Gain insights into data cleaning, statistical analyses, and visualization techniques to elevate your skill set.
+
+Shaking hands icon
+Networking Opportunity
+Connect with students from across Germany, expanding your network and fostering collaborations beyond your 
+university.
+
+Icon: smiley
+Balanced Learning and Fun
+Strike the perfect balance between work and enjoyment. DataFest ensures a professional yet enjoyable environment, blending insightful challenges with moments of camaraderie and laughter.
+
+## Sponsors and Affiliated Organisations:
+Logos:
+* University of Mannheim, Mannheim Center for Data Science
+* University of Mannheim, School of Social Sciences
+* Ludwig-Maximilians-Universität München
+* BERD@NFDI
+* AI-Hub @LMU
+  
+
