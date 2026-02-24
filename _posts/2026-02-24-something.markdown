@@ -1,14 +1,14 @@
 ---
 layout: post
-title:  "Something"
+title:  "New event"
 date:   2026-02-24 14:48:00 +0100
 categories: events
 ---
 
-# Hello 
+# Event name 
 
-How are you
+Today and not tommorow
 
-## Buy product
+## Event name 2
 
-we are glad to post hahaha
+Tommorow and not today
